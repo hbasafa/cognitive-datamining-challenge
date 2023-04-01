@@ -47,10 +47,10 @@ Arousing of posts
 More results will be added soon!
 
 # Acknowledgements
-Hossein Basafa (hossein.basafa.hb@gmail.com)
-Zahra Razavi
-Mohammad Rahbari
-Zahra Nouri
+- Hossein Basafa (hossein.basafa.hb@gmail.com)
+- Zahra Razavi
+- Mohammad Rahbari
+- Zahra Nouri
 
 # Citation
 Please site this repo and star to support further research in this field.
